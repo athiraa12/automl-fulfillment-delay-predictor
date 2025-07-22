@@ -8,8 +8,7 @@ A machine learning project that predicts warehouse fulfillment delays using oper
 
 ## 🚀 Demo
 
-> **Coming soon**: Streamlit app for interactive predictions
-
+![image](https://github.com/athiraa12/automl-fulfillment-delay-predictor/blob/main/demo/Screenshot%202025-07-23%20013450.png?raw=true)
 ---
 
 ## 🧠 Project Highlights
