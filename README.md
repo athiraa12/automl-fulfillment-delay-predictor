@@ -10,6 +10,8 @@ A machine learning project that predicts warehouse fulfillment delays using oper
 
 ![image](https://github.com/athiraa12/automl-fulfillment-delay-predictor/blob/main/demo/Screenshot%202025-07-23%20013450.png?raw=true)
 ---
+![image](https://github.com/athiraa12/automl-fulfillment-delay-predictor/blob/main/demo/Screenshot%202025-07-23%20013550.png?raw=true)
+---
 
 ## 🧠 Project Highlights
 
