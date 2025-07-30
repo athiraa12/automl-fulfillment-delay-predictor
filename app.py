@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 from joblib import load
-model = load("streamlit_app.py/tpot_lightgbm_model.pkl")
+model = load("app.py/tpot_lightgbm_model.pkl")
 
 
 # Streamlit app config
