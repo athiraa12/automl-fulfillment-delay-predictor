@@ -6,20 +6,23 @@ A machine learning project that predicts warehouse fulfillment delays using oper
 
 ---
 
-## 🚀 Demo
+## Demo
 
 ![image](https://github.com/athiraa12/automl-fulfillment-delay-predictor/blob/main/demo/Screenshot%202025-07-23%20013450.png?raw=true)
 ---
 ![image](https://github.com/athiraa12/automl-fulfillment-delay-predictor/blob/main/demo/Screenshot%202025-07-23%20013550.png?raw=true)
 ---
+## Try it now
+https://automl-fulfillment-delay-predictor-wxcpwbby2ng2gx2w6sfgch.streamlit.app/
 
-## 🧠 Project Highlights
+---
+## Project Highlights
 
-- ✅ Built an **AutoML pipeline** using TPOT (LightGBM-based) with ~83% accuracy
-- 📊 Simulated warehouse data (orders, workers, pick time, shift hours)
-- 🧮 Feature importance and correlation visualizations included
-- 🤖 Generates **daily operational recommendations** (e.g., "Add workers", "Extend shifts")
-- 💻 Ready for deployment in a Streamlit dashboard
+- Built an **AutoML pipeline** using TPOT (LightGBM-based) with ~83% accuracy
+- Simulated warehouse data (orders, workers, pick time, shift hours)
+- Feature importance and correlation visualizations included
+- Generates **daily operational recommendations** (e.g., "Add workers", "Extend shifts")
+- Ready for deployment in a Streamlit dashboard
 
 ---
 
@@ -40,7 +43,7 @@ A synthetically generated dataset simulating warehouse operations with the follo
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. **Data Preprocessing**  
    - Encodes categorical features  
@@ -56,7 +59,7 @@ A synthetically generated dataset simulating warehouse operations with the follo
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 - Feature importance plot
 - Correlation heatmap
